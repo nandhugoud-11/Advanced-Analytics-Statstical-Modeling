@@ -1,0 +1,14 @@
+🚀 Task 4 Complete – Advanced Analytics & Statistical Modeling at ApexPlanet Software Pvt Ltd!
+
+This week I moved from exploring data to making predictions:
+
+📊 Statistical Analysis – descriptive stats, t-test, chi-square test & confidence intervals
+📈 Time Series – trend, seasonality, residuals + moving-average forecasting
+👥 Customer Segmentation – K-Means (4 clusters) with elbow method & PCA visualization
+🤖 Predictive Model – Linear Regression to predict profit (R² = __), with the top 3 drivers identified
+
+Biggest takeaway: statistics tells you whether a pattern is real, and modeling tells you what to do next.
+
+🔗 GitHub: <your repo link>
+
+#DataScience #MachineLearning #DataAnalytics #Python #ApexPlanet
